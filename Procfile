@@ -1,1 +1,1 @@
-web: ruby go.rb -p $PORT
+web: ruby run.rb -p $PORT
